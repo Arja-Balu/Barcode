@@ -1,3 +1,0 @@
-Flask==2.2.5
-pyzbar==0.1.9
-Pillow==10.0.0
